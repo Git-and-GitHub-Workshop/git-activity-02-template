@@ -19,19 +19,3 @@ Also, note that the commit history and the resulting snapshots will differ from 
 You should already have the Canvas quiz accompanying this exercise opened; if not, open it now.
 
 1. The first step was using GitHub Classroom to accept this assignment. Done!
-1. Next, we need to run a GitHub Action to set things up for the exercise. We will learn more about actions later in the course, but for this exercise, we need to run the pre-set action.
-   * In your repository on GitHub, click on the "Actions" tab, shown below:
-   ![Screenshot of GitHub repo showing the Actions button](images/github_actions_button.png)
-   * Next, run the "Setup Commit History" action. Select that on the left-hand panel, then click the "Run workflow" button on the right, and from the dropdown, click the green "Run workflow button". These steps are illustrated below:
-   ![Screenshot of running the Setup Commit History action](images/github_run_action.png) 
-1. You should see a blue bar indicating your Workflow was successfully requested.
-![Screenshot of workflow requested banner](images/github_action_submitted.png)
-It may take a minute or two to run the workflow, but once it runs, there will be a green check next to the Setup Commit History action in the event log:
-![Screenshot of the workflow successful run](images/github_action_run.png)
-
-   > If you run into problems here and the workflow fails, please post in the discussion board section: [Module 1 Issues](https://github.com/orgs/Git-and-GitHub-Workshop/discussions/categories/module-1-issues).
-
-1. You can clone this onto your computer to complete the quiz and answer the questions.
-   * Click back on the "<> Code" tab, then click on the green "Code" button, and either copy the text string to clone the repo (to use the command line) or click the "Open with GitHub Desktop" button (to have GitHub Desktop clone the repo locally and open it)
-   ![Screenshot of cloning the repo in GitHub](images/github_clone.png)
-1. The rest of the instructions are in the Canvas quiz. Follow the directions and answer the questions as you go.
